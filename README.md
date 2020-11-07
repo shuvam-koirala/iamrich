@@ -1,6 +1,6 @@
 # iamrich
 
-A new Flutter application.
+A simple Flutter application with image.
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Here are some of the demo screenshot for you
+## screenshot 1
+<img src="Screenshot_2020-11-07-22-36-17-187_com.suvam.iamrich.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" width="400" />  
